@@ -22,6 +22,9 @@ public class Test {
 			
 			int result3 = 3;
 			System.out.println("result3 : " + result3);
+			
+			int result4 = 3;
+			System.out.println("result4 : " + result4);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
