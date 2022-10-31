@@ -19,6 +19,9 @@ public class Test {
 			int result2 = testClass2.getTestClass().sum(1, 1);
 			
 			System.out.println("result2 : " + result2);
+			
+			int result3 = 3;
+			System.out.println("result3 : " + result3);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
